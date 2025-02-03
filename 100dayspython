@@ -1,1 +1,19 @@
+# What is Python?
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+print("Hello, World!")
+Hello World!
+
+# Python Install
+Download the Pycharm Community Edition - https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
+
+>>> print("Hello, World!")
+Hello, World!
+
+# Python Comments
+Comments can be used to explain Python code.
+
+Comments can be used to make the code more readable.
+
+Comments can be used to prevent execution when testing code
+
 
